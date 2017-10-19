@@ -1,4 +1,4 @@
 *.out
-/pynb_checkpoints
+/.ipynb_checkpoints
 temp/
 
