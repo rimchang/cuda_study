@@ -1,0 +1,4 @@
+*.out
+/pynb_checkpoints
+temp/
+
